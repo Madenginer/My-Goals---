@@ -1,4 +1,4 @@
-# 🌐✨ **Ahmad Roadmap to Network Engineering Mastery** 🚀💻
+# 🌐 **Ahmad Roadmap to Network Engineering Mastery** 🚀
 
  *“Building the bridges of technology while mastering the art of communication.”*  
 
@@ -53,7 +53,18 @@ Welcome to my **Networking Journey**, where I document my progress toward becomi
   Obtain advanced certifications such as **CCIE**, AWS Solutions Architect, or Security+ for cybersecurity.  
 
 - **🌍 Master Professional English:**  
-  Use English fluently in professional environments through constant practice and collaboration.  
+  Use English fluently in professional environments through constant practice and collaboration.
+
+---
+
+## 📚 **Learning Resources**
+
+| **Category**              | **Resources**                                                                                   |
+|---------------------------|-------------------------------------------------------------------------------------------------|
+| **Networking Basics**     | - MTCNA Study Materials <br> - CCNA Modules on Cisco NetAcad                                    |
+| **Python Programming**    | - Real Python <br> - FreeCodeCamp Python Tutorials <br> - "Automate the Boring Stuff with Python" |
+| **TOEFL/IELTS Preparation** | - Official TOEFL/IELTS Prep Materials <br> - Engoo (Speaking Practice)                        |
+| **Tools**                 | - GNS3 or Cisco Packet Tracer <br> - Git and GitHub                                             |
 ---
   🚀 *Together, we build networks that connect the world.*  
 
