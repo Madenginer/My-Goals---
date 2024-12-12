@@ -1,72 +1,43 @@
-# 🌐 **Roadmap to Becoming a Network Engineer** 🖧
+# 🌐 **Roadmap to Become a Network Engineer + English Proficiency**
 
-![Network Animation](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
-
-Welcome to my personal roadmap! This repository tracks my journey to becoming a **Network Engineer** 🚀 and enhancing my **English proficiency** for TOEFL/IELTS speaking. Explore my learning plan, goals, and projects!
-
----
-
-## ✨ **Quick Overview**
-
-| **Phase**                | **Focus Areas**                                                    | **Timeframe**   |
-|--------------------------|--------------------------------------------------------------------|-----------------|
-| **Short-Term Goals**     | Basics of Networking, Python, Vocabulary Building                | Semester 3-4    |
-| **Mid-Term Goals**       | Advanced Networking, Python Mastery, TOEFL/IELTS Certification   | Semester 5-6    |
-| **Long-Term Goals**      | Specialized Certifications, Full-Time Role as a Network Engineer | Post-Graduation|
+## 📜 Overview
+Welcome to my roadmap repository! This document outlines my journey toward becoming a **Network Engineer** while enhancing my **English proficiency** for TOEFL/IELTS speaking. Join me as I explore networking technologies and develop my coding skills.
 
 ---
 
-## 🛠 **Step-by-Step Plan**
+## 🎯 **Short-Term Goals (Semester 3-4)**
 
-### 🎯 **Short-Term Goals (Semester 3-4)**
+| **Goal**                  | **Description**                                                                                 | **Action Steps**                                                                                   | **Target Timeframe**  |
+|---------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------|
+| **Learn Python**          | Master Python for network automation and scripting.                                            | - Start with basic Python modules. <br> - Explore libraries like Netmiko, Paramiko, and NAPALM.    | Semester 3-4          |
+| **English Vocabulary**    | Build a strong vocabulary base for TOEFL/IELTS.                                                | - Learn 10–15 new words daily. <br> - Practice usage in sentences.                                 | Semester 3            |
+| **Introductory Certs**    | Get foundational knowledge in networking.                                                       | - Focus on **MTCNA** or **CCNA** modules.                                                          | Semester 4            |
+| **GitHub Repository**     | Showcase projects related to networking and coding.                                            | - Upload scripts and detailed READMEs. <br> - Focus on structure and documentation.                | Semester 3-4          |
 
-- **🔗 Learn Networking Basics**:  
-  Study foundational materials such as MTCNA or CCNA.
-  
-  ![Networking GIF](https://media.giphy.com/media/l41JQzfm6Ittwv7c0/giphy.gif)
-
-- **🐍 Learn Python for Network Automation**:  
-  Start with basic Python syntax and libraries like Netmiko, Paramiko, and NAPALM.
-
-- **📚 Build English Vocabulary**:  
-  Learn 10–15 words daily and practice using them in context.  
-  Use apps like Anki or Quizlet to track progress.
-
-- **💻 Create GitHub Projects**:  
-  Showcase simple automation scripts and network diagrams.
+![Networking Animation](https://media.giphy.com/media/l0HlP7BgAIqQ2OqHq/giphy.gif)
 
 ---
 
-### 🚀 **Mid-Term Goals (Semester 5-6)**
+## 🌍 **Mid-Term Goals (Semester 5-6)**
 
-- **🎓 Earn Advanced Certifications**:  
-  Study for CCNP and explore Cisco Packet Tracer for simulations.  
+| **Goal**                  | **Description**                                                                                 | **Action Steps**                                                                                   | **Target Timeframe**  |
+|---------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------|
+| **TOEFL/IELTS**           | Achieve a competitive score in TOEFL/IELTS.                                                     | - Take a course focusing on speaking. <br> - Practice mock interviews and exams.                   | Semester 5            |
+| **Advanced Networking**   | Gain deeper knowledge in advanced networking protocols and systems.                             | - Study **CCNP** or specialized topics. <br> - Practice network simulations using Cisco Packet Tracer. | Semester 6            |
+| **Python Mastery**        | Build advanced Python skills for Network Engineering.                                           | - Master APIs like REST and JSON for network tools. <br> - Create automation scripts for networks.  | Semester 5-6          |
+| **Portfolio Projects**    | Build significant projects demonstrating practical skills.                                      | - Automate device configuration.<br> - Develop custom monitoring systems.                          | Semester 6            |
 
-- **⚙️ Master Python for Network Engineering**:  
-  Build projects such as:  
-    - Automated Network Monitoring Systems  
-    - Configuration Management Tools  
-
-  ![Python Automation GIF](https://media.giphy.com/media/xUOxeUaLXQXfIsQSLe/giphy.gif)
-
-- **🗣 Prepare for TOEFL/IELTS**:  
-  Enroll in speaking-focused courses and practice mock exams.  
-
-- **🌟 Build Portfolio**:  
-  Develop significant portfolio projects to showcase on GitHub and LinkedIn.
+![Network Graph Animation](https://media.giphy.com/media/f9C4bW4I7nQZggzRNu/giphy.gif)
 
 ---
 
-### 🌍 **Long-Term Goals (Post-Graduation)**
+## 🚀 **Long-Term Goals (Post-Graduation)**
 
-- **🏢 Secure a Role as a Network Engineer**:  
-  Leverage LinkedIn, GitHub, and certifications to land a job.  
-
-- **💡 Specialize in Advanced Fields**:  
-  Pursue certifications like CCIE or AWS for cloud networking and security.
-
-- **🌐 Maintain Professional English Skills**:  
-  Join communities and network internationally to stay fluent.
+| **Goal**                  | **Description**                                                                                 | **Action Steps**                                                                                   | **Target Timeframe**  |
+|---------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------|
+| **Network Engineer Role** | Secure a job as a Network Engineer.                                                             | - Use LinkedIn and GitHub for branding. <br> - Showcase projects to recruiters.                    | After Graduation      |
+| **Specialized Certs**     | Gain expertise in areas like cybersecurity or cloud networking.                                 | - Pursue certifications like **CCIE**, AWS, or CompTIA Security+.                                  | After Graduation      |
+| **Professional English**  | Use English fluently in professional settings.                                                  | - Join communities or networking events. <br> - Keep practicing speaking in real-world contexts.   | Ongoing               |
 
 ---
 
@@ -74,10 +45,10 @@ Welcome to my personal roadmap! This repository tracks my journey to becoming a 
 
 | **Category**              | **Resources**                                                                                   |
 |---------------------------|-------------------------------------------------------------------------------------------------|
-| **Networking Basics**     | - [Cisco NetAcad](https://www.netacad.com/) <br> - MTCNA Study Guides                           |
-| **Python Programming**    | - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) <br> - FreeCodeCamp |
-| **TOEFL/IELTS Preparation** | - [Engoo](https://engoo.com) <br> - Official TOEFL/IELTS Guides                              |
-| **Tools**                 | - Cisco Packet Tracer <br> - GitHub <br> - GNS3                                                |
+| **Networking Basics**     | - MTCNA Study Materials <br> - CCNA Modules on Cisco NetAcad                                    |
+| **Python Programming**    | - Real Python <br> - FreeCodeCamp Python Tutorials <br> - "Automate the Boring Stuff with Python" |
+| **TOEFL/IELTS Preparation** | - Official TOEFL/IELTS Prep Materials <br> - Engoo (Speaking Practice)                        |
+| **Tools**                 | - GNS3 or Cisco Packet Tracer <br> - Git and GitHub                                             |
 
 ---
 
