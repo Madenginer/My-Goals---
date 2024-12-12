@@ -1,11 +1,12 @@
-# 🌐✨ **Ahmed's Roadmap to Network Engineering Mastery** 🚀💻  
+# 🌐✨ **Ahmad Roadmap to Network Engineering Mastery** 🚀💻
 
-> *“Building the bridges of technology while mastering the art of communication.”*  
+ *“Building the bridges of technology while mastering the art of communication.”*  
 
 Welcome to my **Networking Journey**, where I document my progress toward becoming an expert **Network Engineer** while honing my **English speaking skills** for TOEFL/IELTS. 🌍📶  
 
-![Networking Animation](https://media.giphy.com/media/f9C4bW4I7nQZggzRNu/giphy.gif)  
-
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVrMXVlZGJvcjhmZWk4dDAyZ2xicTNnY3FzczZnbXp2dTllbjloayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f03np8FngnDDweFsCR/giphy.gif" alt="Robot Animation" width="250" />
+<p
 ---
 
 ## 🧭 **Overview**  
@@ -28,10 +29,8 @@ Welcome to my **Networking Journey**, where I document my progress toward becomi
   Learn 10–15 new English words daily and practice speaking.  
 
 - **📜 Certifications:**  
-  Start with foundational certifications like **MTCNA** or **CCNA**.  
-
-![Coding Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  
-
+  Start with foundational certifications like **MTCNA** or **CCNA**.
+  
 ---
 
 ### 📌 **Mid-Term Goals (Semester 5-6)**  
@@ -44,8 +43,6 @@ Welcome to my **Networking Journey**, where I document my progress toward becomi
 - **🎤 Prepare for TOEFL/IELTS Speaking:**  
   Take specialized courses and mock tests to achieve competitive scores.  
 
-![Packet Animation](https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif)  
-
 ---
 
 ### 📌 **Long-Term Goals (Post-Graduation)**  
@@ -57,10 +54,6 @@ Welcome to my **Networking Journey**, where I document my progress toward becomi
 
 - **🌍 Master Professional English:**  
   Use English fluently in professional environments through constant practice and collaboration.  
-
-![Technology Animation](https://media.giphy.com/media/RK5KD7SIOOHs52Dlrc/giphy.gif)  
-
 ---
-
-## 📂 **Repository Structure**  
+  🚀 *Together, we build networks that connect the world.*  
 
