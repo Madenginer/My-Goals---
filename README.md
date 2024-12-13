@@ -1,6 +1,6 @@
 # 🌐 **Ahmad Roadmap to Network Engineering Mastery** 🚀
 
- *“Building the bridges of technology while mastering the art of communication.”*  
+*“Building the bridges of technology while mastering the art of communication.”*  
 
 Welcome to my **Networking Journey**, where I document my progress toward becoming an expert **Network Engineer** while honing my **English speaking skills** for TOEFL/IELTS. 🌍📶  
 
